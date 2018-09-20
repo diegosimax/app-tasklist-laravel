@@ -4,7 +4,7 @@ Aplicativo de lista de tarefas construído utilizando o framework Laravel.
 # DETALHES
 * Linguagens: PHP 7, JAVASCRIPT, CSS e HTML.
 * Framework Backend: Laravel 5.7.
-* Frameword Web (Frontend): Bootstrap.
+* Framework Web (Frontend): Bootstrap.
 * Banco de Dados: MySQL.
 
 # CONSIDERAÇÕES
